@@ -660,7 +660,7 @@ footer a {
     .get1 {
         background-color: red;
         color: white;
-        width: 20px;
+        width: 0px;
         font-size: 20px;
         border-radius: 4px;
         font-weight: 400;
@@ -844,7 +844,7 @@ footer a {
     .get3 {
         background-color: red;
         color: white;
-        width: 20px;
+        width: 0px;
         font-size: 20px;
         border-radius: 4px;
         font-weight: 400;
